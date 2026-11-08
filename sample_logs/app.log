@@ -1,0 +1,6 @@
+2026-10-26 10:00:01 ERROR db: Connection timed out after 30 s
+    at pool.get()
+2026-10-26 10:00:05 ERROR db: Connection timed out after 45 s
+2026-10-26 10:01:10 INFO web: request ok
+2026-10-26 10:02:00 ERROR auth: permission denied for user 42
+2026-10-26 10:03:00 CRITICAL api: MemoryError while loading report

@@ -1,0 +1,9 @@
+flask
+flask-cors
+scikit-learn
+numpy
+pytest
+python-dotenv
+flask-sqlalchemy
+PyMySQL
+gunicorn
